@@ -2,7 +2,7 @@
 
 My name is Jonathan and currently, I am studying CS at the University of Waterloo. 
 
-Most of my experience is with full-stack web development.😄
+Most of my experience is with full-stack web development. 😄
 <!--
 **JonnyACCI/JonnyACCI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
