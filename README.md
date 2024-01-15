@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Jonathan and currently, I am studying CS at the University of Waterloo. 
+
+Most of my experience is with full-stack web development.😄
 <!--
 **JonnyACCI/JonnyACCI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p > <img src="https://komarev.com/ghpvc/?username=JonnyACCI&label=Profile%20views&color=0e75b6&style=flat" alt="JonnyACCI" /> </p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=JonnyACCI&show_icons=true&locale=en&layout=compact" alt="JonnyACCI" /></p>
+
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=JonnyACCI&show_icons=true&locale=en" alt="JonnyACCI" /></p>
