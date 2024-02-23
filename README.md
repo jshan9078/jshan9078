@@ -4,7 +4,7 @@ My name is Jonathan and currently, I am studying CS at the University of Waterlo
 
 Most of my experience is with full-stack web development. 😄
 <!--
-**JonnyACCI/JonnyACCI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jshan9078/jshan9078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p > <img src="https://komarev.com/ghpvc/?username=JonnyACCI&label=Profile%20views&color=0e75b6&style=flat" alt="JonnyACCI" /> </p>
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=JonnyACCI&show_icons=true&locale=en&layout=compact" alt="JonnyACCI" /></p>
+<p > <img src="https://komarev.com/ghpvc/?username=jshan9078&label=Profile%20views&color=0e75b6&style=flat" alt="jshan9078" /> </p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jshan9078&show_icons=true&locale=en&layout=compact" alt="jshan9078" /></p>
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=JonnyACCI&show_icons=true&locale=en" alt="JonnyACCI" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=jshan9078&show_icons=true&locale=en" alt="jshan9078" /></p>
