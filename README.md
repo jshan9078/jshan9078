@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 <p > <img src="https://komarev.com/ghpvc/?username=jshan9078&label=Profile%20views&color=0e75b6&style=flat" alt="jshan9078" /> </p>
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jshan9078&show_icons=true&locale=en&layout=compact" alt="jshan9078" /></p>
+-->
