@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Jonathan and currently, I am studying CS at the University of Waterloo. 
+My name is Jonathan and currently, I am in my 2B term of Computer Science at the University of Waterloo. 
 
-Most of my experience is with full-stack web development. 😄
+I'm most passionate about full-stack development, AI agents, and automation! 😄
 <!--
 **jshan9078/jshan9078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
