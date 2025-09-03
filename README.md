@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jonathan and currently, I am in my 2B term of Computer Science at the University of Waterloo. 
+My name is Jonathan and currently, I am in my 3A term of Computer Science at the University of Waterloo. 
 
 I'm most passionate about full-stack development, vertical AI agents, and automation! 😄
 <!--
