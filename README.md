@@ -2,7 +2,7 @@
 
 My name is Jonathan and currently, I am in my 3A term of Computer Science at the University of Waterloo. 
 
-I'm most passionate about full-stack development, vertical AI agents, and automation! 😄
+I'm most passionate about using LLMs to make life easier, designing high-performance backend systems, and implementing reliable, scalable infrastructure. 😄
 <!--
 **jshan9078/jshan9078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
