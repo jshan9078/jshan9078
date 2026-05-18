@@ -2,9 +2,9 @@
 
 My name is Jonathan and currently, I am in my 3B term of Computer Science at the University of Waterloo. 
 
-Willy-nillying with models that do things in the real world.
-Dilly-dallying with self-improving agentic harnesses.
-Pokémon on the side: https://zera.cards/
+- Willy-nillying with models that do things in the real world.
+- Dilly-dallying with self-improving agentic harnesses.
+- Pokémon on the side: https://zera.cards/
 
 <!--
 **jshan9078/jshan9078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
