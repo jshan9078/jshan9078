@@ -2,8 +2,7 @@
 
 My name is Jonathan and currently, I am in my 3B term of Computer Science at the University of Waterloo. 
 
-- Willy-nillying with models that do things in the real world.
-- Dilly-dallying with self-improving agentic harnesses.
+- Dilly-dallying with self-improving agentic harnesses, post-training on smaller language models, and simulation-based evals.
 - Pokémon on the side: https://zera.cards/
 
 <!--
